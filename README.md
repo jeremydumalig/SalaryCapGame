@@ -6,4 +6,4 @@
 * Jupyter Notebook that builds interactive roster builder (functional on Google Colab)
 
 salaries.csv
-* Player team and salary data from the 2018-19 NBA season
+* Player salary data from the 2018-19 NBA season

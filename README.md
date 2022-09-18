@@ -6,7 +6,7 @@
 
 <br>
 
-2019 NBA Salary Cap Game.ipynb
+**2019 NBA Salary Cap Game.ipynb**
 * Jupyter Notebook that builds interactive roster builder (functional on Google Colab)
 
 salaries.csv
